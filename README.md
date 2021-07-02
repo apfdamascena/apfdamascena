@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> 👨🏻‍💻 Alex Damascena 👨🏻‍💻 </h1>
 
-<!--
-**apfdamascena/apfdamascena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- Did you say challenge? Let me know, please
 
-Here are some ideas to get you started:
+- Always wanting to improve my code skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Did you say soft skills? I would love to have a conversation with this amazing topic.
+
+- I love teaching other people, this knowledge exchange is so good.
+
+- - - - - - - - 
+
+
+<div display = "flex" style="margin-top: 20px">
+
+<img alt="coding"  height= "200rem" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfdamascena&theme=react&layout=compact&count_private=true&langs_count=8"/>
+
+<img  alt="github" height= "200rem" src="https://github-readme-stats.vercel.app/api?username=apfdamascena&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
+
+</div>
+
+
+##
+
+<div>
+  <a href = "mailto: apfd@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+- - - - -
