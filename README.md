@@ -21,7 +21,7 @@
 </div>
 
 
-<div style="margin-top: 30px">
+<div style="margin-top: 30rem">
   <a href = "mailto: apfd@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
