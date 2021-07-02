@@ -14,9 +14,9 @@
 
 <div display = "flex" style="margin-top: 20px">
 
-<img alt="coding"  height= "240rem" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfdamascena&theme=react&layout=compact&count_private=true&langs_count=8"/>
+<img alt="coding"  height= "230rem" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfdamascena&theme=react&layout=compact&count_private=true&langs_count=8"/>
 
-<img  alt="github" height= "240rem" src="https://github-readme-stats.vercel.app/api?username=apfdamascena&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
+<img  alt="github" height= "230rem" src="https://github-readme-stats.vercel.app/api?username=apfdamascena&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
 
 </div>
 
