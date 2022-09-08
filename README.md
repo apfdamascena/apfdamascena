@@ -1,4 +1,4 @@
-<h1 align="center"> Alex Damascena 🏻‍💻 </h1>
+<h1 align="center"> Alex Damascena 💻 </h1>
 
 - - - - - - - - 
 
