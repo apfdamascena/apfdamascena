@@ -9,7 +9,6 @@
 <img  alt="github" height= "170rem" src="https://github-readme-stats.vercel.app/api?username=apfdamascena&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
 </div>
 
-
 <div>
   <a href = "mailto: apfd@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/alexdamascena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
